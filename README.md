@@ -69,7 +69,7 @@ More projects
 
 ### Useful resources
 
-- [Vercel issue](https://favicon.io/) Helped with conversion an image to favicon.
+- [Favicon Converter](https://favicon.io/) Helped with conversion an image to favicon.
 
 
 
