@@ -58,7 +58,7 @@ Features;
 
 ### What I learned
 
-I learnt abou webpack
+I learnt about webpack
 
 
 ### Continued development
