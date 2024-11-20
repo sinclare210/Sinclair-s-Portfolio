@@ -17,59 +17,61 @@
 
 
 ## Overview
-This is a marketplace for selling goods
+ Sinclair's Portfolio
+
+Welcome to Sinclair's Portfolio! This is my personal portfolio website built with React, showcasing my skills, projects, and background. Feel free to explore and learn more about my work.
+
+
 
 ### The Project
 
-Users should be able to:
+Features;
 
-- See and buy goods
-- Pay seemlessly
-- Add to cart
-- Checkout
-- View Cart
+- Responsive Design: The portfolio is designed to look great on both desktop and mobile devices.
+- Showcase of Skills: A section that highlights my technical skills and experience.
+- About Me: A brief introduction to who I am and what I do.
+
 
 
 
 ### Features
 
-- Make payment usig paystack
 - Responsive Design: Optimized for both desktop and mobile devices.
 
 
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/sinclare210/MarketPlace-)
-- Live Site URL: [live site URL](https://market-place-beryl.vercel.app/)
+- Solution URL: [GITHUB URL](https://github.com/sinclare210/Sinclair-s-Portfolio)
+- Live Site URL: [live site URL](https://sinclair-s-portfolio.vercel.app/)
 
 ## My process
 
 ### Built with
 
-- React
-- Tailwind CSS
-- JavaScript
-- Shadcn UI
-- React Icons
+- React: A JavaScript library for building user interfaces.
+- Tailwind CSS: A utility-first CSS framework for styling the portfolio.
+- JavaScript (ES6+): The language used to build the logic and functionality of the site.
+- Vite: A fast development environment that ensures a smooth build and fast reload.
+
 
 
 ### What I learned
 
-I Usecontex to make props availble at all part of the app
+I learnt abou webpack
 
 
 ### Continued development
 
-I need to work on use UseContext() more often
+More projects
 
 
 
 ### Useful resources
 
-- [Vercel issue](https://stackoverflow.com/questions/75963788/why-is-my-vercel-project-giving-me-an-error-404-on-refresh) - Helped with the vercel refresh error
+- [Vercel issue](https://favicon.io/) Helped with conversion an image to favicon.
 
-- [Fake Api Store](https://fakestoreapi.com/) - Used to populate the products on the site.
+
 
 
 ## Author
