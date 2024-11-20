@@ -10,7 +10,7 @@ function App() {
           {/* Hero Section */}
           <div className="relative">
             <img 
-              src="public/pexels-kenzhar-sharap-125323072-9999451.jpg" 
+              src="/pexels-kenzhar-sharap-125323072-9999451.jpg" 
               alt="Hero" 
               className="w-full h-72 object-cover"
             />
